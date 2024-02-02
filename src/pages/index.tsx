@@ -60,7 +60,7 @@ export default function Home() {
             alt="Profile picture"
             width={150}
             height={150}
-            className="rounded-full border-4 border-white absolute -bottom-24 left-6"
+            className="rounded-full border-4 border-white absolute -bottom-20 left-6"
           />
         </div>
         <div className="flex gap-4 ml-8 mt-24 flex-wrap md:ml-52 md:mt-6 items-center justify-start">
