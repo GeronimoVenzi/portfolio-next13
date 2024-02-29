@@ -51,7 +51,7 @@ export default function Home() {
         <title>Gerónimo Venzi</title>
         <meta name="description" content="CV Gerónimo Venzi" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/profile.ico" />
+        <link rel="icon" href="/favicon1.ico" />
       </Head>
       <main className="wrapper text-slate-800 ">
         <div className="bg-cover relative">
